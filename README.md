@@ -9,6 +9,7 @@ Lastly Exported Cleaned Data:
   - Saved the transformed dataset as `cleansed_accounting.csv` for Power BI analysis.
 
 Power BI Dashboard Features
+
 ✅ KPIs: Total Transactions, High-Risk Transactions, Risk Percentage  
 ✅ Visuals: Line Charts, Pie Charts, Bar Graphs  
 ✅ Interactive Filters: Date, Category, Payment Method  
