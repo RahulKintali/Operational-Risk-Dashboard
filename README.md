@@ -6,8 +6,7 @@ ETL is performed on original Dataset. Steps included in ETL:
   b)Data Cleaning   - Handled Missing Values, Standardized Data Types, Removed Duplicates
   c)Data Transformation - Created New Columns like `Risk_Percentage` based on `Risk_Incident` transactions.
                         - Filtered High-Risk Transactions based on `Risk_Incident = 1` value.
-Lastly Exported Cleaned Data:
-  - Saved the transformed dataset as `cleansed_accounting.csv` for Power BI analysis.
+Lastly Exported Cleansed Dataset for Power BI analysis.
 
 Power BI Dashboard Features
 
