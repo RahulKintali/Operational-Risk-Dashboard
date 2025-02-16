@@ -1,4 +1,5 @@
 This Power BI dashboard provides insights into operational loss incidents by tracking key risk metrics.
+
 Key Tasks Performed:
 ETL is performed on original Dataset. Steps included in ETL:
   a)Data Extraction - Identified key attributes such as `Transaction_ID`, `Date`, `Amount`, `Category`, `Payment_Method`, and `Risk_Incident`.
